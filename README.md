@@ -5,4 +5,4 @@ Solutions to LeetCode problems
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
-|1|[Add Digits](https://leetcode.com/problems/add-digits) | [Python](./easy/add-digits/add-digits.py)|Easy|
+|1|[Add Digits](https://leetcode.com/problems/add-digits) | [Python](./easy/add-digits/add-digits.py) <br/> [JavaScript](./easy/add-digits/add-digits.js) |Easy|
