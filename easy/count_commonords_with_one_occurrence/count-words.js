@@ -19,9 +19,8 @@ var countWords = function(words1, words2) {
             words2_occ[words2[i]] = 1
         }
     }
-    
+
     for(word in words1_occ){
-        console.log(word)
         if(word in words2_occ & words1_occ[word] == 1 & words2_occ[word] == 1){
             n_words +=1;
         }
