@@ -7,3 +7,4 @@ Solutions to LeetCode problems
 |---| ----- | -------- | ---------- |
 |1|[Add Digits](https://leetcode.com/problems/add-digits) | [Python](./easy/add-digits/add-digits.py) <br/> [JavaScript](./easy/add-digits/add-digits.js) |Easy|
 |2|[Count Common Words With One Occurrence](https://leetcode.com/problems/count-common-words-with-one-occurrence) | [Python](./easy/count_commonords_with_one_occurrence/count-words.py) <br/> [JavaScript](./easy/count_commonords_with_one_occurrence/count-words.js) |Easy|
+|3|[Two Sum](https://leetcode.com/problems/two-sum/) | [Python](./easy/two-sum/twoSum.py) |Easy|
