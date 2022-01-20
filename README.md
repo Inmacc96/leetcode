@@ -10,3 +10,4 @@ Solutions to LeetCode problems
 |3|[Two Sum](https://leetcode.com/problems/two-sum/) | [Python](./easy/two-sum/twoSum.py) <br/> [JavaScript](./easy/two-sum/twoSum.js) |Easy|
 |4|[Broken Calculator](https://leetcode.com/problems/broken-calculator/) | [Python](./medium/broken-calculator/brokenCalculator.py) <br/> [JavaScript](./medium/broken-calculator/brokenCalculator.js)  |Medium|
 |5|[Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/) | [Python](./easy/number-good-pairs/numIdenticalPairs.py) <br/> [JavaScript](./easy/number-good-pairs/numIdenticalPairs.js) |Easy|
+|6|[Shuffle String](https://leetcode.com/problems/shuffle-string/) | [Python](./easy/shuffle-string/restoreString.py) |Easy|
