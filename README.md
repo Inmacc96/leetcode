@@ -11,4 +11,4 @@ Solutions to LeetCode problems
 |4|[Broken Calculator](https://leetcode.com/problems/broken-calculator/) | [Python](./medium/broken-calculator/brokenCalculator.py) <br/> [JavaScript](./medium/broken-calculator/brokenCalculator.js)  |Medium|
 |5|[Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/) | [Python](./easy/number-good-pairs/numIdenticalPairs.py) <br/> [JavaScript](./easy/number-good-pairs/numIdenticalPairs.js) |Easy|
 |6|[Shuffle String](https://leetcode.com/problems/shuffle-string/) | [Python](./easy/shuffle-string/restoreString.py) |Easy|
-|7|[Detect Capital](https://leetcode.com/problems/detect-capital/) | [Python](./easy/detect-capital/detectCapitalUse.py) |Easy|
+|7|[Detect Capital](https://leetcode.com/problems/detect-capital/) | [Python](./easy/detect-capital/detectCapitalUse.py) <br/> [Python](./easy/detect-capital/detectCapitalUse.js) |Easy|
