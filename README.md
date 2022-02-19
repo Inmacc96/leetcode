@@ -12,5 +12,5 @@ Solutions to LeetCode problems
 |5|[Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/) | [Python](./easy/number-good-pairs/numIdenticalPairs.py) <br/> [JavaScript](./easy/number-good-pairs/numIdenticalPairs.js) |Easy|
 |6|[Shuffle String](https://leetcode.com/problems/shuffle-string/) | [Python](./easy/shuffle-string/restoreString.py) <br/> [JavaScript](./easy/shuffle-string/restoreString.js) |Easy|
 |7|[Detect Capital](https://leetcode.com/problems/detect-capital/) | [Python](./easy/detect-capital/detectCapitalUse.py) <br/> [JavaScript](./easy/detect-capital/detectCapitalUse.js) |Easy|
-|8|[Count Equal and Divisible Pairs in an Array](https://leetcode.com/problems/count-equal-and-divisible-pairs-in-an-array/) | [Python](./easy/count-pairs/countPairs.py) |Easy|
+|8|[Count Equal and Divisible Pairs in an Array](https://leetcode.com/problems/count-equal-and-divisible-pairs-in-an-array/) | [Python](./easy/count-pairs/countPairs.py) <br/> [JavaScript](./easy/count-pairs/countPairs.js) |Easy|
 |9|[Find Three Consecutive Integers That Sum to a Given Number](https://leetcode.com/problems/find-three-consecutive-integers-that-sum-to-a-given-number/) | [Python](./medium/sum-of-three/sumOfThree.py) <br/> [JavaScript](./medium/sum-of-three/sumOfThree.js) |Medium|
