@@ -13,3 +13,4 @@ Solutions to LeetCode problems
 |6|[Shuffle String](https://leetcode.com/problems/shuffle-string/) | [Python](./easy/shuffle-string/restoreString.py) <br/> [JavaScript](./easy/shuffle-string/restoreString.js) |Easy|
 |7|[Detect Capital](https://leetcode.com/problems/detect-capital/) | [Python](./easy/detect-capital/detectCapitalUse.py) <br/> [JavaScript](./easy/detect-capital/detectCapitalUse.js) |Easy|
 |8|[Count Equal and Divisible Pairs in an Array](https://leetcode.com/contest/biweekly-contest-72/problems/count-equal-and-divisible-pairs-in-an-array/) | [Python](./easy/count-pairs/countPairs.py) |Easy|
+|8|[Find Three Consecutive Integers That Sum to a Given Number](https://leetcode.com/contest/biweekly-contest-72/problems/find-three-consecutive-integers-that-sum-to-a-given-number/) | [JavaScript](./medium/sum-of-three/sumOfThree.js) |Medium|
