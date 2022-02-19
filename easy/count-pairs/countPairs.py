@@ -5,9 +5,4 @@ def countPairs(nums, k):
             if i<j and nums[i] == nums[j] and (i*j)%k == 0:
                 num_pair += 1
     return num_pair
-
-nums = [3,1,2,2,2,1,3]
-k = 2
-print(countPairs(nums, k))
-
                 
