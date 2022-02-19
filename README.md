@@ -12,3 +12,4 @@ Solutions to LeetCode problems
 |5|[Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/) | [Python](./easy/number-good-pairs/numIdenticalPairs.py) <br/> [JavaScript](./easy/number-good-pairs/numIdenticalPairs.js) |Easy|
 |6|[Shuffle String](https://leetcode.com/problems/shuffle-string/) | [Python](./easy/shuffle-string/restoreString.py) <br/> [JavaScript](./easy/shuffle-string/restoreString.js) |Easy|
 |7|[Detect Capital](https://leetcode.com/problems/detect-capital/) | [Python](./easy/detect-capital/detectCapitalUse.py) <br/> [JavaScript](./easy/detect-capital/detectCapitalUse.js) |Easy|
+|8|[Count Equal and Divisible Pairs in an Array](https://leetcode.com/contest/biweekly-contest-72/problems/count-equal-and-divisible-pairs-in-an-array/) | [Python](./easy/count-pairs/countPairs.py) |Easy|
